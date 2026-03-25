@@ -1,28 +1,33 @@
 # Giovanni Filomeno
 
-AI/ML Lead Engineer at BMW. PhD Candidate in Computer Science.  
-I work on multimodal AI systems, retrieval, recommender systems, long-context NLP, and production machine learning.
+AI/ML Lead Engineer at BMW · PhD Candidate in Computer Science. 
+
+Impact-driven engineer with experience bridging research and production systems.
+
+Building production AI systems with measurable impact, including recall reduction, multi-million-euro cost savings, and large-scale deployment across countries.
+
+Focus: multimodal retrieval, recommender systems, long-context NLP, and robust learning under real-world constraints.
 
 ## What I do
 
-- Build AI systems for real-world industrial deployment
-- Research robust multimodal learning under missing modalities
-- Design long-context NLP pipelines and LLM-based solutions
-- Develop models for diagnostics across text, audio, images, and time series
+- Design and deploy AI systems across text, audio, images, and time series
+- Lead industrial ML initiatives with direct business impact (recall reduction, diagnostics, automation)
+- Research multimodal learning under missing modalities and intent-aware architectures
+- Build long-context NLP pipelines beyond standard transformer limits
 
-## Selected Projects
+## Selected Work
 
-### Multimodal Retrieval
-Benchmarking and modeling for multimodal retrieval and recommendation, with a focus on robustness and intent-aware learning.
+### Multimodal Retrieval and Recommender Systems
+Research on multimodal recommendation under missing modalities, focusing on robustness, evaluation, and intent-aware learning.
 
-### DPO for LLMs
-Research on direct preference optimization and implicit policy learning in continuous spaces.
+### Industrial AI Systems at BMW
+Developed and deployed AI models across multiple modalities (time series, audio, images), contributing to recall reduction and multi-million-euro cost savings.
 
 ### Long-context NLP Systems
-Transformer pipelines for documents beyond standard context windows, including sliding-window inference and reproducible deployment.
+Designed transformer-based pipelines extending beyond 10k tokens via sliding-window inference under fixed GPU memory constraints.
 
-### Industrial Diagnostics
-AI models for predictive maintenance and recall reduction in production settings.
+### Direct Preference Optimization for LLMs
+Master thesis on preference-based learning and implicit policy optimization in continuous spaces.
 
 ## Interests
 
