@@ -15,10 +15,18 @@ Focus: multimodal retrieval, recommender systems, long-context NLP, and robust l
 - Research multimodal learning under missing modalities and intent-aware architectures
 - Build long-context NLP pipelines beyond standard transformer limits
 
+## Technical Highlights
+
+- Multimodal systems combining text, audio, images, and time series
+- Dual-encoder architectures for retrieval (audio-text)
+- Long-context NLP with sliding-window inference (>10k tokens)
+- Transformer-based pipelines with scalable deployment
+- PyTorch-based modeling and AWS-based data pipelines (S3, Glue, Athena)
+
 ## Selected Work
 
 ### Multimodal Retrieval and Recommender Systems
-Research on multimodal recommendation under missing modalities, focusing on robustness, evaluation, and intent-aware learning.
+Designed dual-encoder architectures (audio + text) for retrieval tasks, with attention-based pooling and partial fine-tuning. Focus on robustness under missing modalities and intent-aware recommendation.
 
 ### Industrial AI Systems at BMW
 Developed and deployed AI models across multiple modalities (time series, audio, images), contributing to recall reduction and multi-million-euro cost savings.
